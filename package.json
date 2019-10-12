@@ -1,7 +1,7 @@
 {
   "name": "@tamuratak/domstubs",
   "version": "0.1.0",
-  "description": "A npm package for examples/node/domstubs.js from PDF.js",
+  "description": "An npm package for examples/node/domstubs.js from PDF.js",
   "main": "./src/domstubs.js",
   "repository": {
     "type": "git",
